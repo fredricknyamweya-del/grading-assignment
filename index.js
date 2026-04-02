@@ -96,6 +96,7 @@ const students = [
       { name: "Science", score: 91 }
     ]
   }
+
 ];
 
 // 1. Print each student’s name and age
